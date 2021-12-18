@@ -1,5 +1,23 @@
 # cloud-providers-list
 
+## Servers
+
+### NgonX
+https://www.nginx.com/
+
+### Tomcat
+
+### Wildfly
+
+### Payara
+https://www.payara.fish/learn/getting-started-with-payara/
+
+### OpenLiberty
+https://openliberty.io/
+
+### Caddy
+https://caddyserver.com/
+
 ## General Providers
 
 ### Google CLoud
