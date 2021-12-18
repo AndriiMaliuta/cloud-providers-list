@@ -2,7 +2,7 @@
 
 ## Servers
 
-### NgonX
+### NginX
 https://www.nginx.com/
 
 ### Tomcat
@@ -48,6 +48,19 @@ https://www.hetzner.com/
 
 ### Linode
 https://www.linode.com/
+
+
+## Frontend / Jamstack
+
+### Netlify
+https://www.netlify.com/
+
+### Vercel
+https://vercel.com/
+
+### Firebase
+https://firebase.google.com/
+
 
 ## Databases
 
