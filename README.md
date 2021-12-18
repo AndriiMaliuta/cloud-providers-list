@@ -11,6 +11,12 @@ https://aws.amazon.com/
 ### Azure
 https://azure.microsoft.com/
 
+### Heroku
+https://dashboard.heroku.com/apps
+
+### Jelastic
+https://jelastic.com/
+
 ## VPS
 
 ###Vultr
@@ -22,3 +28,13 @@ https://www.digitalocean.com/
 ### Hetzner
 https://www.hetzner.com/
 
+### Linode
+https://www.linode.com/
+
+## Databases
+
+### Hostman
+https://hostman.com/
+
+### ElephantSQL
+https://www.elephantsql.com/
